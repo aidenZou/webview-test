@@ -8,7 +8,7 @@ import android.widget.Toast;
  */
 public class WebHost {
 
-    public Context mContext;
+    private Context mContext;
 
     public WebHost(Context context) {
         this.mContext = context;
